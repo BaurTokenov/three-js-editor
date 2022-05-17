@@ -1,0 +1,32 @@
+{
+  "name": "three-js-editor-react",
+  "version": "1.0.0",
+  "description": "Three-js-editor component for React",
+  "main": "index.tsx",
+  "directories": {
+    "examples": "examples",
+    "editor": "editor files"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "three-js",
+    "react"
+  ],
+  "author": "Bauyrzhan Tokenov",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/styled": "^11.8.1",
+    "lodash": "^4.17.21",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "three": "^0.140.2"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.182",
+    "@types/react": "^18.0.9",
+    "@types/react-dom": "^18.0.4",
+    "@types/three": "^0.140.0"
+  }
+}
